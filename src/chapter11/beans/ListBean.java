@@ -8,6 +8,8 @@ public class ListBean implements Serializable{
 	private String name;
 	private Date releasedate;
 
+	//_/_/_/_/ GitHubのテストです/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_
+
 	public ListBean(int code,String name, Date releasedate) {
 		this.code = code;
 		this.name = name;
