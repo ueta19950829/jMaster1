@@ -8,7 +8,7 @@ import java.sql.SQLException;
 public class InsertTest {
 
 	public static void main(String[] args) {
-
+// 繁田さんテスト
 		try {
 			// JDBCドライバの登録
 			Class.forName("com.mysql.cj.jdbc.Driver");
